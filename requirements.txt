@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+plotly
+google-generativeai
+pdfplumber
+PyMuPDF
+altair
+python-dotenv
+requests
+google-search-results
+openpyxl
+serpapi==0.1.5
